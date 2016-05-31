@@ -1,0 +1,5 @@
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\SuperZapatosDTO\bin\Debug\SuperZapatosDTO.dll
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\SuperZapatosDTO\bin\Debug\SuperZapatosDTO.pdb
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\SuperZapatosDTO\obj\Debug\SuperZapatosDTO.csprojResolveAssemblyReference.cache
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\SuperZapatosDTO\obj\Debug\SuperZapatosDTO.dll
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\SuperZapatosDTO\obj\Debug\SuperZapatosDTO.pdb

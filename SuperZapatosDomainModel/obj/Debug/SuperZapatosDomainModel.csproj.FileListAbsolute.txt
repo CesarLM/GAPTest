@@ -1,0 +1,4 @@
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\SuperZapatosDomainModel\bin\Debug\SuperZapatosDomainModel.dll
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\SuperZapatosDomainModel\bin\Debug\SuperZapatosDomainModel.pdb
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\SuperZapatosDomainModel\obj\Debug\SuperZapatosDomainModel.dll
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\SuperZapatosDomainModel\obj\Debug\SuperZapatosDomainModel.pdb

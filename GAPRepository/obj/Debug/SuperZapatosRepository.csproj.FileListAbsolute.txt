@@ -1,0 +1,12 @@
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\GAPRepository\bin\Debug\GAPRepository.dll.config
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\GAPRepository\bin\Debug\GAPRepository.dll
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\GAPRepository\bin\Debug\GAPRepository.pdb
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\GAPRepository\bin\Debug\EntityFramework.dll
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\GAPRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\GAPRepository\bin\Debug\SuperZapatosDomainModel.dll
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\GAPRepository\bin\Debug\SuperZapatosDomainModel.pdb
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\GAPRepository\bin\Debug\EntityFramework.xml
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\GAPRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\GAPRepository\obj\Debug\SuperZapatosRepository.csprojResolveAssemblyReference.cache
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\GAPRepository\obj\Debug\GAPRepository.dll
+C:\Users\CsR\documents\visual studio 2013\Projects\GAPTest\GAPRepository\obj\Debug\GAPRepository.pdb
